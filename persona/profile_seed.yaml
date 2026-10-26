@@ -1,0 +1,32 @@
+# 关于对方的初始档案
+# 第一次启动时写入记忆库；已经在库里的条目不会被覆盖
+# 想改就直接改这里，然后删掉 data/bot/bot.db（或者用 #遗忘 条目的方式单条改）
+
+facts:
+  - key: 学校
+    value: 某某大学
+    category: 身份
+  - key: 年级
+    value: 2024级
+    category: 身份
+  - key: 专业
+    value: 某某专业
+    category: 身份
+  - key: 职务
+    value: 班长
+    category: 身份
+  - key: 摄影
+    value: 喜欢摄影
+    category: 偏好
+  - key: 弦乐
+    value: 会小提琴和中提琴，学了十来年
+    category: 技能
+  - key: 音乐
+    value: 喜欢听音乐，玩 HiFi
+    category: 偏好
+  - key: 电脑
+    value: 熟悉电脑硬件，计算机方面比较强
+    category: 技能
+  - key: 建模
+    value: 会用 Inventor 建模
+    category: 技能

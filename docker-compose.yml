@@ -1,0 +1,30 @@
+name: qqbot
+
+services:
+  napcat:
+    image: mlikiowa/napcat-docker:latest
+    container_name: napcat
+    restart: unless-stopped
+    environment:
+      - NAPCAT_UID=0
+      - NAPCAT_GID=0
+      - TZ=Asia/Shanghai
+    ports:
+      - "6099:6099"   # NapCat 管理面板（浏览器登录 QQ）
+      - "3001:3001"   # OneBot 正向 WebSocket
+    volumes:
+      - ./data/napcat:/app/napcat/config
+      - ./data/qq:/app/.config/QQ
+
+  bot:
+    build: .
+    pull_policy: build
+    container_name: qq-persona-bot
+    restart: unless-stopped
+    depends_on:
+      - napcat
+    env_file:
+      - .env
+    volumes:
+      - ./data/bot:/data
+      - ./persona:/app/persona:ro

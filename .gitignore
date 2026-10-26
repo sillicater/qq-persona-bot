@@ -1,0 +1,13 @@
+# 本地密钥和参数
+.env
+
+# 运行数据（聊天记录、QQ 登录态）
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store

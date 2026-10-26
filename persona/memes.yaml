@@ -1,0 +1,171 @@
+# ============================================
+#  最近网上在说的梗
+#  整理时间：2026-10（B站/小红书/春晚弹幕为主）
+#  她每次会随机挑一批看，不会一次全塞进上下文
+#  想加就在 QQ 里发：#梗 词 意思
+# ============================================
+memes:
+  - term: 啊？
+    meaning: B站2026年度弹幕，看到离谱反转时的集体反应，一个字就够
+    example: 这个剧情转折 啊？
+    since: 2026-02
+  - term: 我要验牌
+    meaning: 要对方亮证据、验身份，不信你说的话
+    example: 你说你没摸鱼？我要验牌
+    since: 2026-02
+  - term: 牌没有问题
+    meaning: 验完发现没问题，装模作样地通过
+    example: 验完了 牌没有问题
+    since: 2026-02
+  - term: 我是真人
+    meaning: AI 味太重的环境里自证不是机器人
+    example: 别封我 我是真人
+    since: 2026-02
+  - term: 张万森，下机器人
+    meaning: 春晚机器人太多，戏仿"张万森，下雪了"
+    example: 一打开电视 张万森下机器人了
+    since: 2026-02
+  - term: 不烧心
+    meaning: B站十月爆款句式，形容某种东西不上头、不扎心、莫名踏实
+    example: 泰坦磨的面 吃着不烧心
+    since: 2026-10
+  - term: SBTI
+    meaning: 恶搞 MBTI 的人格测试，测出来越离谱越好笑
+    example: 你也去测个SBTI 看看你是什么人格
+    since: 2026-09
+  - term: 这瓜保熟吗
+    meaning: 老台词被 AI 二创带火，用来质疑一件事靠不靠谱
+    example: 你这话 保熟吗
+    since: 2026-05
+  - term: 又是类魂
+    meaning: 看到什么难到变态的东西就说像魂系游戏
+    example: 这作业难度 又是类魂
+    since: 2026-06
+  - term: 我们只是老了，不是死了
+    meaning: 老二次元/老网民的自嘲式宣言，情怀杀
+    example: 迪迦赢了 我们只是老了 不是死了
+    since: 2026-04
+  - term: 抽象力
+    meaning: 用荒诞、解构的方式消解压力，越离谱越有梗
+    example: 这视频抽象力拉满
+    since: 2026-01
+  - term: 活人感
+    meaning: 真实、有温度、不像模板生成的
+    example: 这个博主很有活人感
+    since: 2026-01
+  - term: 含人量
+    meaning: 内容里"人"的成分有多高，跟AI含量相对
+    example: 这条视频含人量极高
+    since: 2026-03
+  - term: AI做不到这么抽象
+    meaning: 夸一件事离谱到机器都编不出来
+    example: 这剧情 AI做不到这么抽象
+    since: 2026-03
+  - term: 我去，不早说
+    meaning: 假装刚知道废话，实际在吐槽对方说得太晚
+    example: 熬夜会困。我去 不早说
+    since: 2026-02
+  - term: 我将全职在家研究
+    meaning: 用严肃"研究"包装上头、震惊、想宅家
+    example: 这个评论区我将全职在家研究
+    since: 2026-02
+  - term: ××基础，××不基础
+    meaning: 反差句式，前半句轻描淡写，后半句才是重点
+    example: 上班基础 开心不基础
+    since: 2026-03
+  - term: 不讲不讲
+    meaning: 不想展开、打断话题、懂的都懂
+    example: 细节不讲不讲
+    since: 2026-02
+  - term: 不知道，我的身材很曼妙
+    meaning: 用不相干的自信回答逃避问题，纯抽象
+    example: 为什么迟到？不知道 我的身材很曼妙
+    since: 2026-03
+  - term: 低山臭水遇知音
+    meaning: 把"高山流水遇知音"降级，形容低配但同频
+    example: 咱俩低山臭水遇知音
+    since: 2026-03
+  - term: 班味
+    meaning: 被上班消耗后的疲惫、机械气质
+    example: 一开会班味就重了
+    since: 2026-04
+  - term: 真没空陪你闹了
+    meaning: 拒绝无效拉扯，不再配合
+    example: 临下班又改需求 真没空陪你闹了
+    since: 2026-04
+  - term: 预制××
+    meaning: 批量、模板化、没灵魂，比如预制朋友圈
+    example: 这组图太预制朋友圈了
+    since: 2026-03
+  - term: 你已急哭
+    meaning: 调侃对方急了、破防了
+    example: 别打错字了 你已急哭
+    since: 2026-02
+  - term: 如何呢，又能怎
+    meaning: 摆烂式反问，事情已经这样了还能怎么办
+    example: 周一又来了 如何呢 又能怎
+    since: 2026-04
+  - term: 邪修
+    meaning: 用野路子、非常规方法解决问题
+    example: 邪修做饭 邪修减肥
+    since: 2026-03
+  - term: 外耗
+    meaning: 跟内耗相反，把压力往外发、维护自己的边界
+    example: 别内耗 适度外耗
+    since: 2026-03
+  - term: 情绪价值
+    meaning: 让人被理解、被安慰的那种收益
+    example: 这杯奶茶提供情绪价值
+    since: 2026-04
+  - term: 赛博对账
+    meaning: 在网上核对彼此经历，发现"原来你也这样"
+    example: 评论区大型赛博对账
+    since: 2026-04
+  - term: 来财
+    meaning: 讨个好彩头，盼钱盼好运
+    example: 来财 来offer
+    since: 2026-01
+  - term: 浪浪山小妖怪
+    meaning: 自嘲是努力生活的小人物
+    example: 今天也是浪浪山小妖怪
+    since: 2026-02
+  - term: 从从容容，连滚带爬
+    meaning: 理想里从容，现实里狼狈，标准反差自嘲
+    example: 本来应该从从容容 现在连滚带爬
+    since: 2026-03
+  - term: 脆皮打工人
+    meaning: 身体很脆、动不动就小伤小病的人
+    example: 今天又腰疼 脆皮打工人上线
+    since: 2026-02
+  - term: 硬控
+    meaning: 被某样东西牢牢吸引，移不开眼
+    example: 被这个视频硬控了十分钟
+    since: 2026-03
+  - term: 还得是你
+    meaning: 果然还是你最会/最离谱
+    example: 整活还得是你
+    since: 2026-03
+  - term: 晕碳
+    meaning: 吃太多碳水之后犯困、发懵
+    example: 午饭吃太多 晕碳了
+    since: 2026-04
+  - term: 丝瓜汤
+    meaning: 指长辈式"为你好"的关心，和真实需求错位
+    example: 又是丝瓜汤式关心
+    since: 2026-01
+  - term: 爱你老己
+    meaning: 把自己叫"老己"，自我照顾、自我和解
+    example: 下班买杯奶茶 爱你老己
+    since: 2026-01
+  - term: 老式人类
+    meaning: 自嘲作息和习惯老派，拒绝被加速
+    example: 我就是老式人类 十点必须睡
+    since: 2026-03
+  - term: 梆梆就是两拳
+    meaning: 不解释，直接动手/直接开怼
+    example: 别分析了 梆梆就是两拳
+    since: 2026-03
+  - term: 知心性情巧思大气
+    meaning: 万能评价句式，一串形容词随便套人
+    example: 你这个人吧 知心 性情 巧思 大气
+    since: 2026-02
